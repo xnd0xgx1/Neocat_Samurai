@@ -10835,3 +10835,389 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.09.27-00.20.38:491][186]LogSlate: WidgetSwitcher ('None') active index changed to 1
 [2020.09.27-00.22.23:182][487]LogSlate: Window 'Message Log' being destroyed
 [2020.09.27-00.22.23:191][487]LogSlate: Window 'Message Log' being destroyed
+[2020.09.27-00.22.29:249][736]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.23.13:038][550]LogEditorViewport: Clicking on Actor (LMB): FbxScene_EscenarioUE_C (FbxScene_EscenarioUE)
+[2020.09.27-00.23.13:049][550]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.23.14:522][611]LogEditorViewport: Clicking on Actor (LMB): FbxScene_EscenarioUE_C (FbxScene_EscenarioUE)
+[2020.09.27-00.23.14:523][611]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.23.15:125][635]LogEditorViewport: Clicking on Actor (LMB): FbxScene_EscenarioUE_C (FbxScene_EscenarioUE)
+[2020.09.27-00.23.15:127][635]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.23.15:240][637]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Jard??n)
+[2020.09.27-00.23.22:507][927]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Jard??n)
+[2020.09.27-00.23.24:567][  8]LogEditorViewport: Clicking on Component (LMB): StaticMeshComponent (Jard??n)
+[2020.09.27-00.23.28:345][155]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.23.37:138][577]LogMaterial: Display: Material /Game/MSPresets/MS_DefaultMaterial_Displacement/MS_DefaultMaterial_Displacement.MS_DefaultMaterial_Displacement needed to have new flag set bUsedWithStaticLighting !
+[2020.09.27-00.23.37:138][577]LogMaterial: Display: Material /Engine/Transient.MS_DefaultMaterial_Displacement needed to have new flag set bUsedWithStaticLighting !
+[2020.09.27-00.23.37:160][577]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial_Displacement, compiling. 
+[2020.09.27-00.23.37:237][577]LogMaterial: Display: Missing cached shader map for material MS_DefaultMaterial_Displacement, compiling. 
+[2020.09.27-00.23.37:336][577]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 40
+[2020.09.27-00.23.37:336][577]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 39
+[2020.09.27-00.23.37:336][577]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 38
+[2020.09.27-00.23.37:336][577]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 37
+[2020.09.27-00.23.37:384][577]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.23.37:814][584]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 113
+[2020.09.27-00.23.37:981][588]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 112
+[2020.09.27-00.23.38:323][596]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 111
+[2020.09.27-00.23.38:367][597]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 110
+[2020.09.27-00.23.38:695][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 109
+[2020.09.27-00.23.38:841][606]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 108
+[2020.09.27-00.23.38:841][606]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 107
+[2020.09.27-00.23.38:893][607]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 106
+[2020.09.27-00.23.38:991][609]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 105
+[2020.09.27-00.23.39:226][617]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 104
+[2020.09.27-00.23.39:226][617]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 103
+[2020.09.27-00.23.39:317][621]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 102
+[2020.09.27-00.23.39:484][628]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 101
+[2020.09.27-00.23.39:669][635]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 100
+[2020.09.27-00.23.39:777][639]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 99
+[2020.09.27-00.23.40:251][656]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 98
+[2020.09.27-00.23.40:499][665]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 97
+[2020.09.27-00.23.40:641][670]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 96
+[2020.09.27-00.23.40:898][679]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 95
+[2020.09.27-00.23.40:898][679]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 94
+[2020.09.27-00.23.40:945][681]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 93
+[2020.09.27-00.23.41:216][691]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 92
+[2020.09.27-00.23.41:407][698]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 91
+[2020.09.27-00.23.41:407][698]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 90
+[2020.09.27-00.23.41:582][705]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 89
+[2020.09.27-00.23.41:779][712]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 88
+[2020.09.27-00.23.42:021][721]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 87
+[2020.09.27-00.23.42:044][722]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 86
+[2020.09.27-00.23.42:265][730]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 85
+[2020.09.27-00.23.42:394][735]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 84
+[2020.09.27-00.23.42:613][743]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 83
+[2020.09.27-00.23.42:613][743]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 82
+[2020.09.27-00.23.42:787][750]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 81
+[2020.09.27-00.23.42:887][754]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 80
+[2020.09.27-00.23.43:075][761]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 79
+[2020.09.27-00.23.43:261][768]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 78
+[2020.09.27-00.23.43:375][772]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 77
+[2020.09.27-00.23.43:536][778]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 67
+[2020.09.27-00.23.43:853][789]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 57
+[2020.09.27-00.23.44:170][800]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 47
+[2020.09.27-00.23.44:226][801]MaterialEditorStats: Base pass shader: 140 instructions
+[2020.09.27-00.23.44:226][801]MaterialEditorStats: Base pass shader with Surface Lightmap: 167 instructions
+[2020.09.27-00.23.44:226][801]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 214 instructions
+[2020.09.27-00.23.44:226][801]MaterialEditorStats: Base pass vertex shader: 41 instructions
+[2020.09.27-00.23.44:226][801]MaterialEditorStats: Texture samplers: 5/16
+[2020.09.27-00.23.44:226][801]MaterialEditorStats: Texture Lookups (Est.): VS(1), PS(3)
+[2020.09.27-00.23.44:227][801]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2020.09.27-00.23.48:759][962]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 37
+[2020.09.27-00.23.48:894][967]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 27
+[2020.09.27-00.23.49:568][992]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2020.09.27-00.23.51:560][ 63]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2020.09.27-00.23.52:720][106]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2020.09.27-00.23.53:175][123]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 7
+[2020.09.27-00.23.53:672][141]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2020.09.27-00.23.54:395][168]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2020.09.27-00.23.54:776][182]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.27-00.23.54:854][185]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2020.09.27-00.25.05:161][706]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.09.27-00.25.30:436][ 89]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.25.41:543][645]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.26.05:813][827]LogEditorViewport: Clicking on Actor (LMB): FbxScene_EscenarioUE_C (FbxScene_EscenarioUE)
+[2020.09.27-00.26.05:824][827]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.26.27:238][827]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.26.30:198][960]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.27.35:335][985]PIE: Warning: AttachTo: '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.DefaultSceneRoot' is not static  (in blueprint "FbxScene_EscenarioUE"), cannot attach '/Game/Levels/demoLevel.demoLevel:PersistentLevel.FbxScene_EscenarioUE_2.Completo2' which is static to it. Aborting.
+[2020.09.27-00.27.46:575][574]LogSlate: WidgetSwitcher ('None') active index changed to 1
+[2020.09.27-00.28.30:802][981]MapCheck: New page: Map Check
+[2020.09.27-00.28.30:827][981]LightingResults: New page: Lighting Build - Sep 26, 2020, 2:28:30 PM
+[2020.09.27-00.28.30:842][981]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2020.09.27-00.28.30:845][981]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2020.09.27-00.28.30:845][981]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2020.09.27-00.28.30:847][981]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2020.09.27-00.28.30:847][981]LogSwarmInterface: [TryOpenConnection] Local Process ID is 14528
+[2020.09.27-00.28.35:441][981]LightingResults: Warning: Both a legacy AtmosphericFog and a new SkyAtmosphere wants to register. Lightmass will not consider the legacy component.
+[2020.09.27-00.28.35:441][981]LightingResults: Warning: No importance volume found and the scene is so large that the automatically synthesized volume will not yield good results.  Please add a tightly bounding lightmass importance volume to optimize your scene's quality and lighting build times.
+[2020.09.27-00.28.35:442][981]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2020.09.27-00.28.35:442][981]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2020.09.27-00.28.35:442][981]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2020.09.27-00.28.35:442][981]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2020.09.27-00.28.35:442][981]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2020.09.27-00.28.35:712][981]LogEditorBuildUtils: Build time 0:04
+[2020.09.27-00.28.35:725][981]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_37, compiling. 
+[2020.09.27-00.28.35:730][981]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer LandscapeMaterialInstanceConstant_37, compiling. 
+[2020.09.27-00.28.35:773][982]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.27-00.28.35:774][982]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2020.09.27-00.28.35:792][982]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Viga_2, compiling. 
+[2020.09.27-00.28.35:797][982]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.27-00.28.35:798][982]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.27-00.28.35:798][982]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Viga_2, compiling. 
+[2020.09.27-00.28.35:849][983]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer water, compiling. 
+[2020.09.27-00.28.35:854][983]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer water, compiling. 
+[2020.09.27-00.28.35:918][984]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Piedra, compiling. 
+[2020.09.27-00.28.35:925][984]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Piedra, compiling. 
+[2020.09.27-00.28.35:985][985]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Puerta_corrediza_1, compiling. 
+[2020.09.27-00.28.35:992][985]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Puerta_corrediza_1, compiling. 
+[2020.09.27-00.28.36:052][986]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Muro_2, compiling. 
+[2020.09.27-00.28.36:059][986]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Muro_2, compiling. 
+[2020.09.27-00.28.36:118][987]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Muro_3, compiling. 
+[2020.09.27-00.28.36:125][987]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Muro_3, compiling. 
+[2020.09.27-00.28.36:183][988]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Muro_1, compiling. 
+[2020.09.27-00.28.36:189][988]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Muro_1, compiling. 
+[2020.09.27-00.28.36:218][989]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer cristal, compiling. 
+[2020.09.27-00.28.36:226][989]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer cristal, compiling. 
+[2020.09.27-00.28.36:254][990]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Clover_Patches_On_Grass_2x2_M_01_inst, compiling. 
+[2020.09.27-00.28.36:262][990]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Clover_Patches_On_Grass_2x2_M_01_inst, compiling. 
+[2020.09.27-00.28.36:289][991]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Decoración_Rojo, compiling. 
+[2020.09.27-00.28.36:295][991]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Decoración_Rojo, compiling. 
+[2020.09.27-00.28.36:324][992]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer negro, compiling. 
+[2020.09.27-00.28.36:329][992]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer negro, compiling. 
+[2020.09.27-00.28.36:359][993]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer rojo_lambert, compiling. 
+[2020.09.27-00.28.36:365][993]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer rojo_lambert, compiling. 
+[2020.09.27-00.28.36:394][994]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Cuerda, compiling. 
+[2020.09.27-00.28.36:398][994]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Cuerda, compiling. 
+[2020.09.27-00.28.36:429][995]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Viga_3, compiling. 
+[2020.09.27-00.28.36:435][995]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Viga_3, compiling. 
+[2020.09.27-00.28.36:465][996]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Viga_6, compiling. 
+[2020.09.27-00.28.36:470][996]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Viga_6, compiling. 
+[2020.09.27-00.28.36:510][997]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Viga_5, compiling. 
+[2020.09.27-00.28.36:517][997]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Viga_5, compiling. 
+[2020.09.27-00.28.36:573][998]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Viga_7, compiling. 
+[2020.09.27-00.28.36:581][998]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Viga_7, compiling. 
+[2020.09.27-00.28.36:625][999]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer viga_4, compiling. 
+[2020.09.27-00.28.36:631][999]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer viga_4, compiling. 
+[2020.09.27-00.28.36:706][  0]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Techo_Rojo, compiling. 
+[2020.09.27-00.28.36:736][  0]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer Techo_Rojo, compiling. 
+[2020.09.27-00.28.47:317][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 74
+[2020.09.27-00.28.47:317][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 64
+[2020.09.27-00.28.47:318][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 54
+[2020.09.27-00.28.47:318][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 44
+[2020.09.27-00.28.47:318][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 34
+[2020.09.27-00.28.47:318][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 25
+[2020.09.27-00.28.47:318][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 18
+[2020.09.27-00.28.47:318][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 13
+[2020.09.27-00.28.47:318][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 9
+[2020.09.27-00.28.47:318][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 6
+[2020.09.27-00.28.47:318][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4
+[2020.09.27-00.28.47:318][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2020.09.27-00.28.47:318][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2020.09.27-00.28.47:472][  2]LogUObjectHash: Compacting FUObjectHashTables data took   1.39ms
+[2020.09.27-00.28.47:505][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Levels/demoLevel" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Levels/demoLevel_Auto5.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2020.09.27-00.28.47:533][  2]LogTexture: Display: Building textures: Texture2D_0 (BGRA8, 512X512)
+[2020.09.27-00.28.47:738][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/demoLevel_Auto51B67F40448A71D422DD09E904DEB8250.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Levels/demoLevel_Auto5.umap'
+[2020.09.27-00.28.47:740][  2]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Levels/demoLevel' took 0.316
+[2020.09.27-00.28.47:740][  2]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.316
+[2020.09.27-00.28.47:740][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Collections/Surfaces/Clover_Patches_On_Grass_2x2_M_01/Clover_Patches_On_Grass_2x2_M_01_inst] ([1] browsable assets)...
+[2020.09.27-00.28.47:760][  2]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Collections/Surfaces/Clover_Patches_On_Grass_2x2_M_01/Clover_Patches_On_Grass_2x2_M_01_inst.Clover_Patches_On_Grass_2x2_M_01_inst]
+[2020.09.27-00.28.47:760][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Collections/Surfaces/Clover_Patches_On_Grass_2x2_M_01/Clover_Patches_On_Grass_2x2_M_01_inst]
+[2020.09.27-00.28.47:791][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2020.09.27-00.28.47:795][  2]LogMaterial: Display: Missing cached shader map for material DebugViewMode MaterialTexCoordScale, compiling. 
+[2020.09.27-00.28.48:289][  2]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2020.09.27-00.28.48:290][  2]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2020.09.27-00.28.48:290][  2]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2020.09.27-00.28.48:290][  2]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2020.09.27-00.28.48:291][  2]TextureStreamingBuild: Display: Compiling optional shaders took 0.497 seconds.
+[2020.09.27-00.28.48:314][  2]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.09.27-00.28.48:330][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Clover_Patches_On_Grass_2x2_M_01D60DA4AF4A2C678813301D898C836FBC.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Collections/Surfaces/Clover_Patches_On_Grass_2x2_M_01/Clover_Patches_On_Grass_2x2_M_01_inst_Auto5.uasset'
+[2020.09.27-00.28.48:331][  2]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Materials/landscape1] ([1] browsable assets)...
+[2020.09.27-00.28.48:331][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/landscape1]
+[2020.09.27-00.28.48:331][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/landscape1" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Materials/landscape1_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:345][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/landscape1_Auto5F1B6D5CA47332F0F8A530891286D74D1.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Materials/landscape1_Auto5.uasset'
+[2020.09.27-00.28.48:392][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/MSPresets/MS_DefaultMaterial_Displacement/MS_DefaultMaterial_Displacement] ([1] browsable assets)...
+[2020.09.27-00.28.48:411][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/MSPresets/MS_DefaultMaterial_Displacement/MS_DefaultMaterial_Displacement.MS_DefaultMaterial_Displacement]
+[2020.09.27-00.28.48:411][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/MSPresets/MS_DefaultMaterial_Displacement/MS_DefaultMaterial_Displacement]
+[2020.09.27-00.28.48:467][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/MS_DefaultMaterial_Displacement_13D08BD24A5B2AEE584D7ABC8CFA5FB0.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/MSPresets/MS_DefaultMaterial_Displacement/MS_DefaultMaterial_Displacement_Auto5.uasset'
+[2020.09.27-00.28.48:469][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Viga_2] ([1] browsable assets)...
+[2020.09.27-00.28.48:486][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Viga_2.Viga_2]
+[2020.09.27-00.28.48:486][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Viga_2]
+[2020.09.27-00.28.48:486][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Viga_2" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Viga_2_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:522][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Viga_2_Auto5D391B8424E61C62B3C86AEAE25506B53.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Viga_2_Auto5.uasset'
+[2020.09.27-00.28.48:524][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/viga_4] ([1] browsable assets)...
+[2020.09.27-00.28.48:544][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/viga_4.viga_4]
+[2020.09.27-00.28.48:545][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/viga_4]
+[2020.09.27-00.28.48:545][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/viga_4" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/viga_4_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:557][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/viga_4_Auto5C379F5CF435A8A1E49C7F2B8F43D1C01.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/viga_4_Auto5.uasset'
+[2020.09.27-00.28.48:558][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Viga_5] ([1] browsable assets)...
+[2020.09.27-00.28.48:575][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Viga_5.Viga_5]
+[2020.09.27-00.28.48:576][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Viga_5]
+[2020.09.27-00.28.48:576][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Viga_5" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Viga_5_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:592][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Viga_5_Auto5140C13DE40A8C6FE529FD8BB0E4E461F.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Viga_5_Auto5.uasset'
+[2020.09.27-00.28.48:594][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/cristal] ([1] browsable assets)...
+[2020.09.27-00.28.48:612][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/cristal.cristal]
+[2020.09.27-00.28.48:612][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/cristal]
+[2020.09.27-00.28.48:612][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/cristal" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/cristal_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:640][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/cristal_Auto552CA986648C2E5803016C6A0765750E0.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/cristal_Auto5.uasset'
+[2020.09.27-00.28.48:642][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Techo_Rojo] ([1] browsable assets)...
+[2020.09.27-00.28.48:661][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Techo_Rojo.Techo_Rojo]
+[2020.09.27-00.28.48:661][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Techo_Rojo]
+[2020.09.27-00.28.48:661][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Techo_Rojo" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Techo_Rojo_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:675][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Techo_Rojo_Auto54E4471CB4CC4574B92A04E82948BBBA5.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Techo_Rojo_Auto5.uasset'
+[2020.09.27-00.28.48:677][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Viga_3] ([1] browsable assets)...
+[2020.09.27-00.28.48:694][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Viga_3.Viga_3]
+[2020.09.27-00.28.48:694][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Viga_3]
+[2020.09.27-00.28.48:713][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Viga_3" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Viga_3_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:729][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Viga_3_Auto55ACFB4034EC44CFB85F831805836B4A4.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Viga_3_Auto5.uasset'
+[2020.09.27-00.28.48:731][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/piso_tierra] ([1] browsable assets)...
+[2020.09.27-00.28.48:748][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/piso_tierra.piso_tierra]
+[2020.09.27-00.28.48:748][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/piso_tierra]
+[2020.09.27-00.28.48:748][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/piso_tierra" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/piso_tierra_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:787][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/piso_tierra_Auto5D84CDB9448C6A032493FB6B4F4015925.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/piso_tierra_Auto5.uasset'
+[2020.09.27-00.28.48:788][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Cuerda] ([1] browsable assets)...
+[2020.09.27-00.28.48:809][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Cuerda.Cuerda]
+[2020.09.27-00.28.48:809][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Cuerda]
+[2020.09.27-00.28.48:810][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Cuerda" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Cuerda_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:824][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Cuerda_Auto557DEE56E44467F2B3CDB588C1A3E96FB.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Cuerda_Auto5.uasset'
+[2020.09.27-00.28.48:826][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Piedra] ([1] browsable assets)...
+[2020.09.27-00.28.48:845][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Piedra.Piedra]
+[2020.09.27-00.28.48:845][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Piedra]
+[2020.09.27-00.28.48:845][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Piedra" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Piedra_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:861][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Piedra_Auto5811519324F41D7A1523F72B490E59203.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Piedra_Auto5.uasset'
+[2020.09.27-00.28.48:862][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Decoración_Rojo] ([1] browsable assets)...
+[2020.09.27-00.28.48:880][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Decoración_Rojo.Decoración_Rojo]
+[2020.09.27-00.28.48:880][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Decoración_Rojo]
+[2020.09.27-00.28.48:880][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Decoración_Rojo" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Decoración_Rojo_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:900][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Decoración_Rojo_Auto580A2D99F4940C07107DF6E959A86854B.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Decoración_Rojo_Auto5.uasset'
+[2020.09.27-00.28.48:901][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/negro] ([1] browsable assets)...
+[2020.09.27-00.28.48:918][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/negro.negro]
+[2020.09.27-00.28.48:918][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/negro]
+[2020.09.27-00.28.48:918][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/negro" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/negro_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.48:932][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/negro_Auto546E88EEA4B9E22368161C69DD9B834FB.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/negro_Auto5.uasset'
+[2020.09.27-00.28.48:933][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Puerta_corrediza_1] ([1] browsable assets)...
+[2020.09.27-00.28.48:953][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Puerta_corrediza_1.Puerta_corrediza_1]
+[2020.09.27-00.28.48:953][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Puerta_corrediza_1]
+[2020.09.27-00.28.48:967][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Puerta_corrediza_1_Auto55F6C730E4394DE025D38B5A004DD19AB.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Puerta_corrediza_1_Auto5.uasset'
+[2020.09.27-00.28.48:969][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Muro_2] ([1] browsable assets)...
+[2020.09.27-00.28.48:987][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Muro_2.Muro_2]
+[2020.09.27-00.28.48:987][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Muro_2]
+[2020.09.27-00.28.48:987][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Muro_2" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Muro_2_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.49:004][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Muro_2_Auto5F83F956C42DB19B1F325F2BD194C9B09.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Muro_2_Auto5.uasset'
+[2020.09.27-00.28.49:005][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Muro_3] ([1] browsable assets)...
+[2020.09.27-00.28.49:025][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Muro_3.Muro_3]
+[2020.09.27-00.28.49:025][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Muro_3]
+[2020.09.27-00.28.49:025][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Muro_3" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Muro_3_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.49:039][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Muro_3_Auto5996E226649D1A0518B37DC93EB0B873B.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Muro_3_Auto5.uasset'
+[2020.09.27-00.28.49:040][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Muro_1] ([1] browsable assets)...
+[2020.09.27-00.28.49:057][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Muro_1.Muro_1]
+[2020.09.27-00.28.49:057][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Muro_1]
+[2020.09.27-00.28.49:057][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Muro_1" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Muro_1_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.49:071][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Muro_1_Auto5249B9AB247CFC7C7A8AC87B97F489EB0.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Muro_1_Auto5.uasset'
+[2020.09.27-00.28.49:072][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Viga_7] ([1] browsable assets)...
+[2020.09.27-00.28.49:091][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Viga_7.Viga_7]
+[2020.09.27-00.28.49:091][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Viga_7]
+[2020.09.27-00.28.49:091][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Viga_7" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Viga_7_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.49:138][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Viga_7_Auto55DD1C15A48D47883B1AC37A6C6E2960F.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Viga_7_Auto5.uasset'
+[2020.09.27-00.28.49:139][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/Viga_6] ([1] browsable assets)...
+[2020.09.27-00.28.49:156][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/Viga_6.Viga_6]
+[2020.09.27-00.28.49:157][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/Viga_6]
+[2020.09.27-00.28.49:157][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/Viga_6" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Viga_6_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.49:169][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/Viga_6_Auto529F0FE4B43D93897FF52F29FE74B18A1.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/Viga_6_Auto5.uasset'
+[2020.09.27-00.28.49:170][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/rojo_lambert] ([1] browsable assets)...
+[2020.09.27-00.28.49:188][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/rojo_lambert.rojo_lambert]
+[2020.09.27-00.28.49:188][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/rojo_lambert]
+[2020.09.27-00.28.49:188][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/rojo_lambert" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/rojo_lambert_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.49:202][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/rojo_lambert_Auto59D0EF719475C78BA315893B99EA064B7.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/rojo_lambert_Auto5.uasset'
+[2020.09.27-00.28.49:203][  2]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Geometry/water] ([1] browsable assets)...
+[2020.09.27-00.28.49:222][  2]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Geometry/water.water]
+[2020.09.27-00.28.49:222][  2]OBJ SavePackage: Finished generating thumbnails for package [/Game/Geometry/water]
+[2020.09.27-00.28.49:222][  2]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Geometry/water" FILE="../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/water_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2020.09.27-00.28.49:238][  2]LogSavePackage: Moving '../../../../../projects/Neocat_Samurai/neocat/Saved/water_Auto5676289E446AF0F85601DD8A56D215AB5.tmp' to '../../../../../projects/Neocat_Samurai/neocat/Saved/Autosaves/Game/Geometry/water_Auto5.uasset'
+[2020.09.27-00.28.49:239][  2]LogFileHelpers: Auto-saving content packages took 1.499
+[2020.09.27-00.28.52:512][ 54]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2020.09.27-00.29.14:429][118]LightingResults: Warning: pCube298 Object has overlapping UVs.
+[2020.09.27-00.29.14:429][118]LightingResults: pCube298 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.09.27-00.29.14:763][119]LightingResults: Warning: pCube82 Object has overlapping UVs.
+[2020.09.27-00.29.14:763][119]LightingResults: pCube82 Lightmap UV are overlapping by 49.3%. Please adjust content - Enable Error Coloring to visualize.
+[2020.09.27-00.29.14:763][119]LightingResults: Warning: pCube81 Object has overlapping UVs.
+[2020.09.27-00.29.14:763][119]LightingResults: pCube81 Lightmap UV are overlapping by 44.8%. Please adjust content - Enable Error Coloring to visualize.
+[2020.09.27-00.29.16:446][124]LightingResults: Warning: pCube61 Object has overlapping UVs.
+[2020.09.27-00.29.16:446][124]LightingResults: pCube61 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.09.27-00.29.16:772][125]LightingResults: Warning: pCube69 Object has overlapping UVs.
+[2020.09.27-00.29.16:772][125]LightingResults: pCube69 Lightmap UV are overlapping by 47.1%. Please adjust content - Enable Error Coloring to visualize.
+[2020.09.27-00.29.17:111][126]LightingResults: Warning: pCube72 Object has overlapping UVs.
+[2020.09.27-00.29.17:111][126]LightingResults: pCube72 Lightmap UV are overlapping by 36.1%. Please adjust content - Enable Error Coloring to visualize.
+[2020.09.27-00.29.32:601][172]LightingResults: Warning: pCube302 Object has overlapping UVs.
+[2020.09.27-00.29.32:602][172]LightingResults: pCube302 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.09.27-00.29.34:611][178]LightingResults: Warning: pCube301 Object has overlapping UVs.
+[2020.09.27-00.29.34:611][178]LightingResults: pCube301 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.09.27-00.29.34:949][179]LightingResults: Warning: pCube300 Object has overlapping UVs.
+[2020.09.27-00.29.34:949][179]LightingResults: pCube300 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.09.27-00.29.35:281][180]LightingResults: Warning: pCube299 Object has overlapping UVs.
+[2020.09.27-00.29.35:281][180]LightingResults: pCube299 Lightmap UV are overlapping by 50.0%. Please adjust content - Enable Error Coloring to visualize.
+[2020.09.27-00.29.46:674][214]Job is a success!
+[2020.09.27-00.29.47:412][215]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.111s
+[2020.09.27-00.29.47:412][215]LogVolumetricLightmapImport:      Indirection Texture 32x32x32 = 0.1Mb
+[2020.09.27-00.29.47:412][215]LogVolumetricLightmapImport:      BrickData (all levels) 0.5Mb (trimmed 3.2Mb due to 0.010000 MinBrickError)
+[2020.09.27-00.29.47:412][215]LogVolumetricLightmapImport:      Bricks at depth
+[2020.09.27-00.29.47:412][215]LogVolumetricLightmapImport:          0: 8.2% covering 100.0% of volume
+[2020.09.27-00.29.47:412][215]LogVolumetricLightmapImport:          1: 64.9% covering 12.3% of volume
+[2020.09.27-00.29.47:412][215]LogVolumetricLightmapImport:          2: 26.8% covering 0.1% of volume
+[2020.09.27-00.29.47:412][215]LogVolumetricLightmapImport:      Bricks in each level
+[2020.09.27-00.29.47:412][215]LogVolumetricLightmapImport:          demoLevel 			 97 bricks 	 100.0% (Persistent Level)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: SkyOcclusion1_1 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: SkyOcclusion1_2 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: SkyOcclusion1_3 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: HQ_Lightmap1_3 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (DXT1, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: SkyOcclusion1_4 (AutoDXT, 1024X512)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: HQ_Lightmap1_4 (AutoDXT, 1024X1024)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: LQ_Lightmap_1_4 (DXT1, 1024X1024)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: SkyOcclusion1_5 (AutoDXT, 1024X512)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: LQ_Lightmap_1_5 (DXT1, 1024X1024)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: HQ_Lightmap1_5 (AutoDXT, 1024X1024)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: SkyOcclusion1_6 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: HQ_Lightmap1_6 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: LQ_Lightmap_1_6 (DXT1, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: SkyOcclusion1_7 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: HQ_Lightmap1_7 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: LQ_Lightmap_1_7 (DXT1, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: SkyOcclusion1_8 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: HQ_Lightmap1_8 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: LQ_Lightmap_1_8 (DXT1, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: SkyOcclusion1_9 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: HQ_Lightmap1_9 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: LQ_Lightmap_1_9 (DXT1, 256X256)
+[2020.09.27-00.29.52:127][215]LogTexture: Display: Building textures: SkyOcclusion1_10 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: HQ_Lightmap1_10 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: LQ_Lightmap_1_10 (DXT1, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: SkyOcclusion1_11 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: HQ_Lightmap1_11 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: LQ_Lightmap_1_11 (DXT1, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: SkyOcclusion1_12 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: HQ_Lightmap1_12 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: LQ_Lightmap_1_12 (DXT1, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: SkyOcclusion1_13 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: HQ_Lightmap1_13 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: LQ_Lightmap_1_13 (DXT1, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: SkyOcclusion1_14 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: HQ_Lightmap1_14 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: LQ_Lightmap_1_14 (DXT1, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: SkyOcclusion1_15 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: HQ_Lightmap1_15 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: LQ_Lightmap_1_15 (DXT1, 256X256)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: SkyOcclusion1_16 (AutoDXT, 256X128)
+[2020.09.27-00.29.52:128][215]LogTexture: Display: Building textures: HQ_Lightmap1_16 (AutoDXT, 256X256)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: LQ_Lightmap_1_16 (DXT1, 256X256)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: SkyOcclusion1_17 (AutoDXT, 1024X512)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: HQ_Lightmap1_17 (AutoDXT, 1024X1024)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: LQ_Lightmap_1_17 (DXT1, 1024X1024)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: SkyOcclusion1_18 (AutoDXT, 1024X512)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: HQ_Lightmap1_18 (AutoDXT, 1024X1024)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: LQ_Lightmap_1_18 (DXT1, 1024X1024)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: SkyOcclusion1_19 (AutoDXT, 1024X512)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: HQ_Lightmap1_19 (AutoDXT, 1024X1024)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: LQ_Lightmap_1_19 (DXT1, 1024X1024)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: SkyOcclusion1_20 (AutoDXT, 64X32)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: HQ_Lightmap1_20 (AutoDXT, 64X64)
+[2020.09.27-00.29.52:129][215]LogTexture: Display: Building textures: LQ_Lightmap_1_20 (DXT1, 64X64)
+[2020.09.27-00.29.52:205][215]Lightmass on DESKTOP-2QFE0BA: 58.7 sec total, 1.03 sec importing, 527 ms setup, 7.03 sec photons, 50.0 sec processing, 0 ms extra exporting [600/600 mappings]. Threads: 5:50 min total, 2:02 min processing.
+[2020.09.27-00.29.52:231][215]LogStaticLightingSystem: demoLevel_BuiltData storing lightmap data for 600 meshes in 20 LightmapResourceClusters (30.0 Meshes per cluster).
+[2020.09.27-00.29.52:281][215]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2020.09.27-00.29.52:331][215]LogStaticLightingSystem: Illumination: 1:21 min (4.15 sec encoding lightmaps, 0 ms encoding shadowmaps)
+[2020.09.27-00.29.52:331][215]LogStaticLightingSystem: Lightmap texture memory:  15.7 MB (15.7 MB streaming, 0.0 MB non-streaming), 40 textures
+[2020.09.27-00.29.52:331][215]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2020.09.27-00.29.57:490][215]DumpUnbuiltLightIteractions
+[2020.09.27-00.29.57:490][215]Lights with unbuilt interactions: 0
+[2020.09.27-00.29.57:490][215]
+[2020.09.27-00.29.57:490][215]Primitives with unbuilt interactions: 0
+[2020.09.27-00.29.57:637][216]Cmd: MAP CHECK NOTIFYRESULTS
+[2020.09.27-00.29.57:637][216]MapCheck: New page: demoLevel - Sep 26, 2020, 2:29:57 PM
+[2020.09.27-00.29.57:638][216]MapCheck: Error: SkyAtmosphere_1 A SkyAtmosphere and a legacy AtmosphericFog components are both active, we recommend to have only one enabled per world. 
+[2020.09.27-00.29.57:639][216]MapCheck: Map check complete: 1 Error(s), 0 Warning(s), took 1.628ms to complete.
+[2020.09.27-00.33.41:231][970]LogSlate: Window 'Message Log' being destroyed
+[2020.09.27-00.33.41:237][970]LogSlate: Window 'Message Log' being destroyed
