@@ -2543,3 +2543,5 @@ Purging the undo buffer...
 [2020.10.17-00.10.44:593][761]LogContentValidation: Display: Validating FontFace /Game/2D_Hud/2D_menu/MontereyMediumFLF.MontereyMediumFLF
 [2020.10.17-00.10.44:593][761]LogContentValidation: Display: Validating Font /Game/2D_Hud/2D_menu/MontereyMediumFLF_Font.MontereyMediumFLF_Font
 [2020.10.17-00.10.44:593][761]LogContentValidation: Display: Validating Texture2D /Game/2D_Hud/2D_menu/NeonCatLogo.NeonCatLogo
+[2020.10.17-00.13.45:653][589]LogFactory: FactoryCreateFile: Texture with ReimportTextureFactory (0 0 C:\Users\Esteban\Desktop\DocsCAt\Sin título-1.png)
+[2020.10.17-00.13.46:237][589]LogTexture: Display: Building textures: Sin_título-1 (BGRA8, 6887X4260)
